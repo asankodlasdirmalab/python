@@ -6,4 +6,4 @@ Mövzular
 * Riyazi (Arithmetic)  operatorlar - ```+, -, *, /, //, %, **```
 * Müqayisə (Comparison) operatorları- ```==, !=, <, >, <=, >=```
 * Məntiqi (Logical) operatorlar - ```and, or, not```
-* Təyinetmə (Assignment) operatorları - ```=, +=, -=, *=, /=, %=, **=**```
+* Təyinetmə (Assignment) operatorları - ```=, +=, -=, *=, /=, %=```
