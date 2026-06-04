@@ -3,7 +3,7 @@
 Mövzular
 
 * Operator grupları (Arithmetic, Comparison, Logical, Assignment, Bitwise, Identity)
-* Riyazi (Arithmetic)  operatorlar - +, -, *, /, //, %, **
-* Müqayisə (Comparison) operatorları- ==, !=, <, >, <=, >=
-* Məntiqi (Logical) operatorlar - and, or, not
-* Təyinetmə (Assignment) operatorları - =, +=, -=, *=, /=, %=, **=**
+* Riyazi (Arithmetic)  operatorlar - ```+, -, *, /, //, %, **```
+* Müqayisə (Comparison) operatorları- ```==, !=, <, >, <=, >=```
+* Məntiqi (Logical) operatorlar - ```and, or, not```
+* Təyinetmə (Assignment) operatorları - ```=, +=, -=, *=, /=, %=, **=**```
