@@ -1,4 +1,4 @@
-# [ Dərs 4 Operatorlar - Slide keçid](https://docs.google.com/presentation/d/1RKGQgI-I3HiYSg-sOBQNfVShag9sFpbyV1-jm1dLtJY/edit?slide=id.g3d8cd64ae6e_0_5#slide=id.g3d8cd64ae6e_0_5)
+# [ Dərs 4 Operatorlar](https://docs.google.com/presentation/d/1RKGQgI-I3HiYSg-sOBQNfVShag9sFpbyV1-jm1dLtJY/edit?slide=id.g3d8cd64ae6e_0_5#slide=id.g3d8cd64ae6e_0_5)
 
 Mövzular
 
